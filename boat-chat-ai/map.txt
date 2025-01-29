@@ -1,0 +1,17 @@
+boat-chat-ai/
+├── assets/
+│   ├── css/
+│   │   └── chat-style.css
+│   └── js/
+│       └── chat-script.js
+├── includes/
+│   ├── class-database.php
+│   ├── openai-handler.php
+│   ├── chat-handler.php
+│   └── notifications.php
+├── templates/
+│   ├── chat-interface.php
+│   ├── owner-interface.php
+│   └── admin-settings.php
+├── boat-chat-ai.php
+└── readme.txt
